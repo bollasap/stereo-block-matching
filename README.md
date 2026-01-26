@@ -1,6 +1,6 @@
 # Stereo Matching using Block Matching
 
-Optimized Stereo Matching using Block Matching implemented in MATLAB and Python.
+Stereo Matching using Block Matching implemented in MATLAB and Python.
 
 ## Features
 
