@@ -10,7 +10,7 @@ Stereo Matching using Block Matching implemented in MATLAB and Python.
 
 The algorithms are implemented in both MATLAB and Python.
 
-All algorithms are accelerated for performance using matrix operations and other techniques.
+All algorithms are optimized for performance using matrix operations and other techniques.
 
 ## Installation
 
